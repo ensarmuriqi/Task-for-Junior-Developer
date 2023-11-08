@@ -1,0 +1,65 @@
+.name {
+    margin: 3rem 0;
+  }
+  
+  .trash-icon {
+    padding-left: 5px;
+  }
+  
+  .sidebar {
+    background-color: #e7e7e7;
+  }
+  
+  .URL-section {
+    margin-left: 5rem;
+  }
+  
+  .trash {
+    background-color: #e7e7e7;
+    border: none !important;
+  }
+  
+  .trash-logo {
+    margin-left: 5px;
+  }
+  
+  .shortener-link-input {
+    width: 400px;
+    border: #111 !important;
+  }
+  
+  .shortener-link-input input {
+    padding: 10px 20px;
+  }
+  
+  .shorten-url-button {
+    background-color: purple;
+    padding: 10px 30px;
+    font-weight: 500;
+    margin: 2rem 0;
+  }
+  
+  #expireTime option[value="0"] {
+    display: none;
+  }
+  
+  .form-expiration {
+    padding: 10px 20px;
+    margin-left: 2rem;
+  }
+  
+  /* option[value="1"] {
+    color: red;
+    border-bottom: 1px solid green;
+  } */
+  
+  /* .options {
+    padding: 2rem;
+    color: red;
+  } */
+  
+  /* .form-expiration .options {
+    color: red;
+    padding: 15px !important;
+  } */
+  
